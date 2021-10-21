@@ -1,0 +1,391 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+/* frist img- section style start */
+.frist-img-section{
+margin-top: 80px;
+
+}
+
+
+
+.frist-img{
+    background:linear-gradient(rgba(0, 0, 0, 0),rgba(17, 122, 129, 0.685)),url(image/imageoone.jpg),center center;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+.frist-img h3{
+    text-align: center;
+    padding-top: 310px;
+    color: white;
+}
+
+
+
+
+.second-img{
+    background:linear-gradient(to bottom,rgba(0, 0, 0, 0),rgba(35, 101, 105, 0), rgba(19, 73, 172, 0.795)),url(image/resized-imageee-Promo.jpeg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 0;
+    right: 0;
+    margin-top: 20px;
+}
+  
+   
+
+.second-img h3{
+    text-align: center;
+    padding-top: 290px;
+    color: white;
+    z-index: 33;
+}
+
+
+
+
+
+
+.third-img{
+    background:linear-gradient(to bottom,rgba(0, 0, 0, 0),rgba(35, 101, 105, 0), rgba(19, 73, 172, 0.795)), url(image/Protonn-Vs-Haval\ \(1\).jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+
+
+}
+
+
+ 
+
+.third-img h3{
+    text-align: center;
+    padding-top: 250px;
+    color: white;
+    z-index: 33;
+}
+
+
+
+
+
+
+
+
+.four-img{
+    background:linear-gradient(to bottom,rgba(0, 0, 0, 0),rgba(35, 101, 105, 0), rgba(19, 73, 172, 0.795)), url(image/WHO.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+
+
+}
+
+
+ 
+
+.four-img h3{
+    text-align: center;
+    padding-top: 290px;
+    color: white;
+    z-index: 33;
+}
+
+
+
+
+
+
+.five-img{
+    background:linear-gradient(to bottom,rgba(0, 0, 0, 0),rgba(35, 101, 105, 0), rgba(19, 73, 172, 0.795)), url(image/Suzuki-min-1280x720-e1599461450360.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+
+
+}
+
+
+ 
+
+.five-img h3{
+    text-align: center;
+    padding-top: 320px;
+    color: white;
+    z-index: 33;
+}
+
+
+
+
+
+
+/* 2nd part style star tech and telecom */
+
+.tech-header{
+    margin-top: 40px;
+    
+    text-align: center;
+}
+.tech-header h2{
+
+}
+
+
+.tech-img{
+    background:linear-gradient(to bottom,rgba(0, 0, 0, 0),rgba(35, 101, 105, 0), rgba(19, 73, 172, 0.795)), url(image/crypto-PP.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+     cursor: pointer;
+}
+
+
+
+.tech-img h4{
+    text-align: left;
+    padding-left: 25px;
+    padding-top: 250px;
+    color: white;
+    z-index: 33;
+    cursor: pointer;
+
+}
+
+
+
+
+.more{
+    text-align: right;
+}
+.more b{
+color:#34A5E4 ;
+}
+
+
+/* 2nd part style end   tech and telecom */
+
+
+
+
+/* 3rd section start */
+
+.third-section-img{
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+}
+.third-section-img  p{
+    padding-top: 20px;
+    font-weight: 500;
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+
+/* 3rd section end*/
+
+
+
+/* 4TH SECTION checkbox style start */
+
+.main-checkbox-sec{
+    display: flex;
+    margin-top: 30px;
+    overflow: auto;
+}
+
+.main-checkbox-sec input{
+    margin-left: 21px;
+}
+.main-checkbox-sec p{
+    margin-left: 10px;
+    margin-top: -7px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.main-checkbox-sec i{
+    margin-right: 5px;
+}
+.main-checkbox-sec b{
+    margin-top: -5px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+.main-check{
+    margin-top: 25px;
+}
+.check-content h3{
+    text-align: left;
+}
+.check-content p{
+    font-size: 19px;
+    font-weight: 400;
+    text-align: left;
+    font-family: Andada,serif;;
+}
+.check-content b{
+    color: rgba(54, 39, 39, 0.514);
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+.big-img{
+    background:linear-gradient(rgba(0, 0, 0, 0),rgba(17, 122, 129, 0.685)),url(image/crypto-PP.jpg),center center;
+ height:400px ;
+ background-repeat: no-repeat;
+ margin-top: 100px;
+ position: relative;
+}
+
+
+.big-img b{
+    text-align: center;
+    padding-top: 310px;
+    color: white;
+}
+
+.big-img-content{
+    background: white;
+    width: 300px;
+    height: 90px;
+    position: absolute;
+    margin-top: -70px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 20px;
+    font-size: 19px;
+}
+.big-img-content b{
+margin-top: 280px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.big-img-second{
+    background:linear-gradient(rgba(0, 0, 0, 0),rgba(17, 122, 129, 0.685)),url(image/Rupee.jpg),center center;
+ height:400px ;
+ background-repeat: no-repeat;
+ margin-top: 100px;
+ position: relative;
+}
+
+
+.big-img b{
+    text-align: center;
+    padding-top: 310px;
+    color: white;
+}
+
+.big-img-content{
+    background: white;
+    width: 300px;
+    height: 90px;
+    position: absolute;
+    margin-top: -70px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 20px;
+    font-size: 19px;
+}
+.big-img-content b{padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+/* 4TH SECTION checkbox style end */
+
+
+/* 5th part of show more style  start*/
+
+
+.show-button{
+    margin: 70px 0px;
+    text-align: center;
+}
+
+.show-button button{
+    padding: 8px 30px;
+    font-size: 17px;
+    text-transform: uppercase;
+    background: #1FB6AC;
+    color: white;
+    border: none;
+}
+.show-button button:hover{
+    background: rgba(0, 0, 0, 0.726);
+}
+
+
+.last-video{
+    text-align: center;
+}
+/* 5th part of show more style  end*/
+
+
+
+
+
+/* fotter section style start */
+
+.main-footer{
+    margin-top: 80px;
+    border: 3px solid red;
+    padding-top: 30px;
+    background: black;
+}
+.fotter-img{
+
+
+}
+
+
+
+.footer-second-col{
+    display: flex;
+    color: white;
+}
+.footer-second ul{
+    color: rgba(255, 255, 255, 0.637);
+}
+/* fotter section style end */
